@@ -24,7 +24,7 @@
 Esta documentação descreve uma implementação de CPU de 8 bits simplificada, desenvolvida no simulador de circuitos digitais "Digital". A CPU implementa uma arquitetura baseada em acumulador de ciclo único, capaz de executar um conjunto básico de operações aritméticas e lógicas.
 
 <div style="text-align: center; width: 800px; margin: 0 auto;">
-    <h3>Figura 1: Imagem geral da Ula</h3>
+    <h3>Figura 1: Imagem geral da CPU</h3>
     <div style="max-width: 800px; margin: 0 auto;">
         <img src="media/CPU.png" alt="Imagem do diagrama de blocos geral da solução" style="width: 100%;" />
     </div>
@@ -161,7 +161,7 @@ A implementação bem-sucedida desta CPU representa um avanço significativo na 
 A modularidade do design permite futuras expansões, como aumento da memória, implementação de mais instruções, ou adição de mais registradores para melhorar a flexibilidade do processador.
 
 <div style="text-align: center; width: 800px; margin: 0 auto;">
-    <h3>Figura 2: Imagem geral do desenvolvimento da Ula</h3>
+    <h3>Figura 2: Imagem geral do desenvolvimento da CPU</h3>
     <div style="max-width: 800px; margin: 0 auto;">
         <img src="media/CPU_COMPLETA.png" alt="Imagem do diagrama de blocos geral da solução" style="width: 100%;" />
     </div>
