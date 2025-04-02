@@ -23,9 +23,17 @@
 
 Esta documentação descreve uma implementação de CPU de 8 bits simplificada, desenvolvida no simulador de circuitos digitais "Digital". A CPU implementa uma arquitetura baseada em acumulador de ciclo único, capaz de executar um conjunto básico de operações aritméticas e lógicas.
 
+<div style="text-align: center; width: 800px; margin: 0 auto;">
+    <h3>Figura 1: Imagem geral da Ula</h3>
+    <div style="max-width: 800px; margin: 0 auto;">
+        <img src="media/CPU.png" alt="Imagem do diagrama de blocos geral da solução" style="width: 100%;" />
+    </div>
+    <p><em>Fonte: Produzida pelo Autor (2025).</em></p>
+</div>
+
 ## 🔭 Visão Geral do Projeto
 
-A CPU simplificada de 8 bits foi desenvolvida como uma extensão natural da Unidade Lógica e Aritmética (ULA) previamente implementada. Ela transforma a ULA em um processador completo, capaz de buscar, decodificar e executar instruções armazenadas em memória. Você pode verificar a documentação completa da ULA clicando [aqui](https://github.com/zzaved/Unidade-Aritmetica-e-Logica)
+A CPU simplificada de 8 bits foi desenvolvida como uma extensão natural da Unidade Lógica e Aritmética (ULA) previamente implementada. Ela transforma a ULA em um processador completo, capaz de buscar, decodificar e executar instruções armazenadas em memória. Você pode verificar a documentação completa da ULA clicando [aqui.](https://github.com/zzaved/Unidade-Aritmetica-e-Logica)
 
 Características principais:
 - Arquitetura baseada em acumulador
@@ -151,3 +159,11 @@ Esta CPU simplificada demonstra os princípios fundamentais de design de process
 A implementação bem-sucedida desta CPU representa um avanço significativo na compreensão da arquitetura de computadores, construindo sobre a base estabelecida pela ULA e expandindo-a para um sistema completo de processamento de instruções.
 
 A modularidade do design permite futuras expansões, como aumento da memória, implementação de mais instruções, ou adição de mais registradores para melhorar a flexibilidade do processador.
+
+<div style="text-align: center; width: 800px; margin: 0 auto;">
+    <h3>Figura 2: Imagem geral do desenvolvimento da Ula</h3>
+    <div style="max-width: 800px; margin: 0 auto;">
+        <img src="media/CPU_COMPLETA.png" alt="Imagem do diagrama de blocos geral da solução" style="width: 100%;" />
+    </div>
+    <p><em>Fonte: Produzida pelo Autor (2025).</em></p>
+</div>
