@@ -3,21 +3,21 @@
 ## 🎬 [Acesse o vídeo explicativo clicando aqui](https://youtu.be/P9vu5nvRbQE) 
 
 ## 📋 Sumário
-1. [Introdução](#introdução)
-2. [Visão Geral do Projeto](#visão-geral-do-projeto)
-3. [Arquitetura da CPU](#arquitetura-da-cpu)
+1. [Introdução](#-introdução)
+2. [Visão Geral do Projeto](#-visão-geral-do-projeto)
+3. [Arquitetura da CPU](#️-arquitetura-da-cpu)
    - [Registrador Acumulador](#registrador-acumulador)
    - [Contador de Programa](#contador-de-programa)
    - [Memória ROM](#memória-rom)
    - [Unidade Lógica e Aritmética (ULA)](#unidade-lógica-e-aritmética-ula)
-4. [Sistema de Instruções](#sistema-de-instruções)
-5. [Fluxo de Dados](#fluxo-de-dados)
-6. [Ciclo de Execução](#ciclo-de-execução)
-7. [Interface de Saída](#interface-de-saída)
-8. [Implementação](#implementação)
-9. [Programação da ROM](#programação-da-rom)
-10. [Testes e Resultados](#testes-e-resultados)
-11. [Conclusão](#conclusão)
+4. [Sistema de Instruções](#-sistema-de-instruções)
+5. [Fluxo de Dados](#-fluxo-de-dados)
+6. [Ciclo de Execução](#️-ciclo-de-execução)
+7. [Interface de Saída](#️-interface-de-saída)
+8. [Implementação](#️-implementação)
+9. [Programação da ROM](#-programação-da-rom)
+10. [Testes e Resultados](#-testes-e-resultados)
+11. [Conclusão](#-conclusão)
 
 ## 📝 Introdução
 
