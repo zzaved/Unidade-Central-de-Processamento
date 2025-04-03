@@ -1,6 +1,6 @@
 # CPU Simplificada de 8 bits
 
-## 🎬 [Acesse o vídeo explicativo clicando aqui](https://youtu.be/P9vu5nvRbQE) 
+## 🎬 [Acesse o vídeo explicativo clicando aqui](https://youtu.be/UN6sylqr5wU) 
 
 ## 📋 Sumário
 1. [Introdução](#-introdução)
